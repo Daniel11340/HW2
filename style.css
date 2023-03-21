@@ -1,0 +1,21 @@
+h1{
+  color: white;
+  text-align: center;
+}
+p{
+  color: white;
+  font-size: 45px;
+  position: absolute;
+  bottom: 60px;
+  right: 45px;
+}
+#btn-reload{
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+#btn-reload {background-color: #940000;}
+#btn-reload:hover {background: #da190b;}
+
