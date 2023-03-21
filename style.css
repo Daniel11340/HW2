@@ -15,6 +15,7 @@ p{
   padding: 10px 20px;
   font-size: 16px;
   cursor: pointer;
+  
 }
 #btn-reload {background-color: #940000;}
 #btn-reload:hover {background: #da190b;}
